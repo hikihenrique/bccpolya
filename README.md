@@ -15,6 +15,7 @@ inicio
 	LEIA n
 	SE n == 0 FACA
 		ESCREVA(n)
+		fimalgoritmo
 	x1 = (n + n / n) / 2
 	ENQUANTO x2 <> x1 FACA
 		x2 = (x1 + n / x1) / 2
