@@ -22,7 +22,7 @@ inicio
 fimalgoritmo</pre>
 
 <h3>· Fluxograma</h3>
-![alt tag](http://oi63.tinypic.com/xlxidj.jpg)
+![alt tag](http://www.gliffy.com/go/publish/image/10368861/L.png)
 
 <h3>· Justificativa para o termo "polya"</h3>
 <p>Geoge Pólya foi um matematico que, em 1945 publicou um livro entitulado "Como resolver isto", numa tradução literária, e este livro mostra alguns principios básicos para resolução de problemas, entre eles estão: "Voce pode pensar em uma imagem ou um diagrama que talvez possa de ajudar a entender o problema?", "Voce pode reformular o problema em suas próprias palavras?", etc.</p>
