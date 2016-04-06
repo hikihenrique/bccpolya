@@ -9,6 +9,7 @@ int main(void)
 	scanf("%lf", &n);
 	if (n == 0){
 		printf("%lf", n);
+		return 0;
 	}
 	printf("%.2lf\n", raizq(n));
 }
