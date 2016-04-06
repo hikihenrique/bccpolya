@@ -13,6 +13,8 @@ O resultado dessa fração deve ser atribuida à <i>y</i> e a equação deve ser
 inicio
 	REAL n, x1, x2
 	LEIA n
+	SE n == 0 FACA
+		ESCREVA(n)
 	x1 = (n + n / n) / 2
 	ENQUANTO x2 <> x1 FACA
 		x2 = (x1 + n / x1) / 2
