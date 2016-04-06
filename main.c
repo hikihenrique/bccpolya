@@ -6,7 +6,10 @@ int main(void)
 {
 
 	double n;
-	scanf("%lf", &n);	
+	scanf("%lf", &n);
+	if (n == 0){
+		printf("%lf", n);
+	}
 	printf("%.2lf\n", raizq(n));
 }
 double raizq(double n)
